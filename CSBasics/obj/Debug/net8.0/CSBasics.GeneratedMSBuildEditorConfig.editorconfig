@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CSBasics
-build_property.ProjectDir = C:\Users\james\Northcoders\Intro Week\CSBasics\CSBasics\
+build_property.ProjectDir = C:\Users\Kep\Documents\northcoders\intro-week\CSBasics\CSBasics\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
