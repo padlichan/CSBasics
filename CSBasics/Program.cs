@@ -19,7 +19,15 @@
 
             int difference = subtractNumber(10, 5);
 
-           
+            Book theHobbit = new Book("The Hobbit", 350);
+            Console.WriteLine($"Title: {theHobbit.Title}, currentPage: {theHobbit.CurrentPage}");
+            for (int i = 0; i < 10; i++)
+            {
+                theHobbit.TurnPage();
+            }
+            Console.WriteLine($"Title: {theHobbit.Title}, currentPage: {theHobbit.CurrentPage}");
+
+
         }
         private static void printGreeting(string name)
         {
